@@ -30,7 +30,7 @@ This differs from a Temporal Cron Job, which relies on a cron schedule as a prop
 
 :::caution
 
-If the result returned by the scheduled workflow exceeds max block size minus temporal extra information (2MB - 1KB) this result will not be awailable for the next run.
+If the result returned by the scheduled workflow exceeds max block size minus temporal extra information (2MB - 1KB) this result will not be available for the next run.
 
 :::
 
